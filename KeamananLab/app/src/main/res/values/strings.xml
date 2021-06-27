@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Keamanan Lab</string>
+    <string name="btnNode1Text">RUANG 1 LABORATORIUM DASAR TELEKOMUNIKASI</string>
+    <string name="btnNode2Text">RUANG 2 LABORATORIUM SALURAN TRANSMISI</string>
+    <string name="colname1">Tanggal</string>
+    <string name="colname2">Waktu</string>
+    <string name="colname3">Keterangan</string>
+    <string name="title_name">Monitoring</string>
+    <string name="node1_title">Ruang 1</string>
+    <string name="node2_title">Ruang 2</string>
+    <string name="about_app">Keamanan Lab adalah aplikasi yang digunakan untuk memantau keamanan lab menggunakan Mikroprocessor.</string>
+    <string name="about_btn">About</string>
+    <string name="author_tv">Created By  M. Bayu Aliffiyah</string>
+    <string name="copyright">Copyright (C) 2021 M. Bayu Aliffiyah</string>
+    <string name="settings_btn"> Monitor</string>
+    <string name="cameraBtn">Camera View</string>
+    <string name="ImageText">Image From Camera</string>
+</resources>
