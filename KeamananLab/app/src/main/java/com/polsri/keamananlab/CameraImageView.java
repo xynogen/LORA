@@ -41,7 +41,7 @@ public class CameraImageView extends AppCompatActivity {
 
 
     }
-
+bui
     private void ShowImage() {
         final long ONE_MEGABYTE = 1024 * 1024;
         gsReference.getBytes(ONE_MEGABYTE).addOnSuccessListener(new OnSuccessListener<byte[]>() {

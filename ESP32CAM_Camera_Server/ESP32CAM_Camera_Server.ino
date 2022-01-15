@@ -25,8 +25,8 @@
 #include <FS.h>
 
 // Replace with your network credentials
-const char* ssid = "daktau";
-const char* password = "kopikopi12345";
+const char* ssid = "PAIO";
+const char* password = "complexity";
 
 // Create AsyncWebServer object on port 80
 AsyncWebServer server(80);
@@ -36,8 +36,8 @@ boolean takeNewPhoto = false;
 // Photo File Name to save in SPIFFS
 #define FILE_PHOTO "/photo.jpg"
 
-IPAddress local_IP(192, 168, 43, 102);
-IPAddress gateway(192, 168, 43, 1);
+IPAddress local_IP(192, 168, 0, 105);
+IPAddress gateway(192, 168, 0, 1);
 
 IPAddress subnet(255, 255, 255, 0);
 IPAddress primaryDNS(8, 8, 8, 8);   //optional
